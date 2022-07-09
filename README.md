@@ -1,6 +1,6 @@
 # NSCGCN
 
-This is the pytorch implementation of our manuscript: NSCGCN: A Novel Deep GCN Model to Diagnosis COVID-19.
+This is the Python implementation of our paper: "NSCGCN: A Novel Deep GCN Model to Diagnosis COVID-19"
 
 We will open all source code after the article is accepted.
 
@@ -30,7 +30,7 @@ If you find this work useful for your publications, please consider citing:
 
 # Installation<a name="3"></a>
 
-1. Make sure you have anaconda3 setup on your system
+1. Make sure you have anaconda3 setup on your system.
 
 2. Install requirements as：
 
@@ -41,7 +41,7 @@ If you find this work useful for your publications, please consider citing:
 
    # Dependencies<a name="4"></a>
 
-Our project is built using Python 3.8.8 and the following packages 
+Our project is built using Python 3.8.8 and the following packages: 
 
 ```
 
