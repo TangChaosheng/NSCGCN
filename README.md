@@ -54,7 +54,7 @@ Our project is built using Python 3.8.8 and the following packages
 |   +-- CT dataset
 |   |   +-- preprocess.ipynb
 |   +-- CXR dataset
-|   |   +-- preprocess.ipynb
+|   |   +-- preprocess.py
 ```
 
 # Method Overview<a name="6"></a>
