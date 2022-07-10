@@ -2,7 +2,7 @@
 
 This is the Python implementation of our paper: "NSCGCN: A Novel Deep GCN Model to Diagnosis COVID-19"
 
-We will open all source code after the article is accepted.
+We will open all source code after our paper is accepted.
 
 # Table of Contents
 
