@@ -44,7 +44,9 @@ If you find this work useful for your publications, please consider citing:
 Our project is built using Python 3.8.8 and the following packages: 
 
 ```
-
+pands = 1.3.0
+nibabel = 3.2.1
+matplotlib = 3.4.2
 ```
 
 # Directory Structure<a name="5"></a>
